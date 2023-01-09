@@ -1,0 +1,34 @@
+{
+    "data":[
+    {
+      "url": "https://cookingtheglobe.com/wp-content/uploads/2021/10/Featured-Img-of-Masala-Tea--300x300.jpg",
+      "name": "Tea",
+      "price": "20"
+    },
+    {
+      "url": "https://www.alphafoodie.com/wp-content/uploads/2020/08/matcha-latte-300x300.jpeg",
+      "name": "Matcha Latte",
+      "price": "200"
+    },
+    {
+      "url": "https://sandysbluehillcafe.com/wp-content/uploads/2018/05/coffee-gift-cards-300x300.jpg",
+      "name": "Coffee",
+      "price": "30"
+    },
+    {
+      "url": "https://sureketo.com/images/black-coffee.jpg",
+      "name": "Black Coffee",
+      "price": "80"
+    },
+    {
+      "url": "https://www.samovartea.com/wp-content/uploads/2020/09/0602CAMI-P.1-Infusion-300x300.jpg",
+      "name": "Green Tea",
+      "price": "80"
+    },
+    {
+      "url": "https://www.samovartea.com/wp-content/uploads/2017/11/0402EAGR-P.1-Infusion-300x300.jpg",
+      "name": "Black Tea",
+      "price": "50"
+    }
+   ]
+  }
